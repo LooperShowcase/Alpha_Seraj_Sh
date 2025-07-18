@@ -1,0 +1,27 @@
+body {
+  background-image: url("https://thumbs.dreamstime.com/z/dog-cat-parrot-gather-closely-fun-selfie-picture-indoors-animals-showcase-vibrant-colors-curious-cute-pose-together-347187222.jpg");
+}
+
+ul#navbar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar li {
+  float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
